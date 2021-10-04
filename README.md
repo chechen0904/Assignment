@@ -10,4 +10,4 @@ This is the assignment 1 for the course of Prediction with Machine Learning.
 > [Case Study Code](https://osf.io/g8p9j/ "Case Study Code")
 
 ## Contact me
-- Email: chen_che@student.ceu.edu
+- Email: chen_che@student.ceu.edu or CCHEN017@e.ntu.edu.sg
