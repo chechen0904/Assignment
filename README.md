@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/Language-Python-9cf.svg) 
 ![](https://img.shields.io/badge/Email-chen__che@student.ceu.edu-lightgrey.svg?style=social&logo=github)
 
-This is the assignment 1 for the course of Prediction with Machine Learning.
+This is the assignment 1's repository for the course of Prediction with Machine Learning.
 > [Assignment Data Link](https://osf.io/g8p9j/ "Assignment Data Link")
 
 > Our textbook: Data analysis for business, economics, and policy | 
