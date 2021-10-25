@@ -3,8 +3,9 @@
 ![](https://img.shields.io/badge/Language-Python-9cf.svg) 
 ![](https://img.shields.io/badge/Email-chen__che@student.ceu.edu-lightgrey.svg?style=social&logo=github)
 
-This is the assignment 1's repository for the course of Prediction with Machine Learning.
-> [Assignment Data Link](https://osf.io/g8p9j/ "Assignment Data Link")
+This is the assignments' repository for the course of Prediction with Machine Learning.
+> [Assignment1 Data Link](https://osf.io/g8p9j/ "Assignment1 Data Link")
+> [Assignment2 Data Link](http://insideairbnb.com/get-the-data.html "Assignment2 Data Link")
 
 > Our textbook: Data analysis for business, economics, and policy | 
 > [Case Study Code](https://osf.io/g8p9j/ "Case Study Code")
